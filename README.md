@@ -8,4 +8,4 @@ La prevención de abandono permite a las empresas desarrollar programas de fidel
 En este repositorio se provee de un dataset con datos financieros, con el fin de aplicar algoritmos de Machine Learning para prevenir el CHURN y aplicar una estrategia adecuada.
 
 PROBLEMATICA:
-Un gerente comercial de un banco de tarjetas de crédito para consumidores se enfrenta al problema de la pérdida de clientes. Quieren analizar los datos para descubrir el motivo detrás de esto y aprovecharlos para predecir los clientes que probablemente abandonen.
+Como COE de Analytics Avanzados se les presenta un problema relacionado de la pérdida de clientes y se les solicita analizar los datos para descubrir el motivo detrás de esto y aprovecharlos para predecir los clientes que probablemente abandonen.

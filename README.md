@@ -1,3 +1,7 @@
+¡Bienvenid@s!
+
+En este espacio encontrarán las instrucciones de los prácticos que abordaremos durante la Diplomatura y el DATASET necesario.
+
 # DiplodatosFAMAF_2025
 Mentoría "Retención de Clientes en Finanzas: Estrategias de Data Science para Prevenir el Churn"
 

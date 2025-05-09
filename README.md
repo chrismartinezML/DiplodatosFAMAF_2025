@@ -35,3 +35,6 @@ Cualquier consulta, la pueden canalizar a mi correo quilimartinez@gmail.com
 Éxitos.
 
 Christian Martinez
+
+![Mentoría](https://github.com/chrismartinezML/DiplodatosFAMAF_2025/raw/main/Images/Mentoria.png)
+

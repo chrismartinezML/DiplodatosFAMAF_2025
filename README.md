@@ -1,4 +1,4 @@
-# Aprendiendo a Detectar Clientes en Riesgo: Estrategias Analíticas para el Churn Bancario
+# Aprendiendo a detectar clientes en riesgo: Estrategias analíticas para el Churn Bancario
 
 ¡Bienvenid@s!
 

@@ -1,4 +1,4 @@
-"Alertas Tempranas de Churn: Estrategias Analíticas en el Sector Bancario"
+"Aprendiendo a Detectar Clientes en Riesgo: Estrategias Analíticas para el Churn Bancario"
 
 Práctico n°1
 Análisis y visualización

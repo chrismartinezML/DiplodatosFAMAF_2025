@@ -1,0 +1,32 @@
+"Alertas Tempranas de Churn: Estrategias Analíticas en el Sector Bancario"
+
+Práctico n°2
+Exploración y Curación
+
+Objetivos:
+Curar el set de datos inicial y prepararlo para un modelo de clasificación.
+
+Consigna n°1: limpieza de datos
+
+Analizar si existen valores faltantes y optar por el tratamiento adecuado (eliminarlos, considerarlos, normalizarlos, etc ) investigando todos los métodos disponibles para éste inconveniente.
+Seleccionar las variables en las cuales ustedes observen Outliers. Discutir posibles motivos y optar por avanzar con una política.
+Seleccionar alguna variable que presente alguna inconsistencia con el set de datos. Discutir posibles causales y optar por un tratamiento para ésta variable.
+¿Existen ids duplicados? ¿Existen datos duplicados? En caso de haberlos, comentar recomendaciones a seguir. Incorporar algunos gráficos que permitan describir las situaciones
+
+Consigna n°2: Feature engineering
+Crear al menos 6 nuevas variables a partir de las variables existentes. Ej: Monto Promedio por Transacción: Total_Trans_Amt / Total_Trans_Ct, Porcentaje de inactividad anual:Months_Inactive_12_mon / 12 , Agrupar meses de antigüedad en segmentos (nuevo cliente, intermedio, maduro), etc.
+
+
+Consigna n°3: preparación del dataset
+
+Convertir a dummy las variables que utilizaran en el próximo práctico con el objetivo de construir un modelo de clasificación.
+Dejar el nuevo dataset curado y listo para ser utilizado en un nuevo repositorio.
+
+
+Los incisos anteriores están orientados a mejorar la consistencia y calidad del dataset, lo que permitirá obtener mejores resultados en próximos análisis. En ciencias de datos estos procesos son continuos en las distintas etapas de análisis. Es decir que si los datos requieren de mayor procesamiento , vamos a volver a ésta etapa inicial para sacar mayor provecho.
+
+Entregas:
+
+Breve informe (no más de 2 o 3 páginas) en el cual se explique qué detectaron en el set de datos, qué interpretación le dieron, alternativas de solución y propuesta.
+El dataset con los cambios implementados en cuanto a curación y normalización.
+Notebook que refleje el trabajo realizado.

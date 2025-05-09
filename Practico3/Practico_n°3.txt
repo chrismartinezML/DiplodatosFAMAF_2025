@@ -1,0 +1,29 @@
+"Alertas Tempranas de Churn: Estrategias Analíticas en el Sector Bancario"
+
+Práctico n°3
+Aprendizaje supervisado y Deep Learning
+
+Objetivos:
+Construir un modelo de clasificación para implementarlo eligiendo sus librerías preferidas o más comunes.
+
+
+1. Dividir el dataset en conjuntos de entrenamiento, validación y test realizando un muestreo estratificado. ¿Qué variables consideran relevantes para realizar el muestreo? ¿Por qué? Seleccionarla y utilizarla para el muestreo.
+
+Sobre los datos normalizados previamente en el práctico anterior:
+
+2. Desarrollar un modelo de clasificación con regresión logística . Analizar los resultados y medir la performance del modelo. 
+Verificar si se cumple el supuesto de Multicolinealidad de variables. En caso que así sea, proceder con la selección de nuevas variables y concluir.
+3. Desarrollar un modelo de clasificación con árboles de decisión. 
+4. Desarrollar dos modelos de clasificación con técnicas de boosting (Gradient Boosting, AdaBoost, XGBoost, LigthGBM). 
+5. Desarrollar un modelo de clasificación con Deep Learning (MLPClassifier u cualquier otro).
+Analizar los resultados y medir la performance del modelo.
+6. Comparar los modelos entre ellos y elegir el modelo mas performante para implementar justificando la elección.
+7. Finalmente, presentar una breve estrategia de retención de clientes que relacione el modelo elegido y el Valor de Cliente. Utilizar gráfico o tabla. 
+
+Se debe aplicar Optimización de Hiperparámetros en todos los modelos para encontrar los mejores resultados en la clasificación (Grid Search, Randomized Search, Optimización Bayesiana y/o Cross-validation).
+Para un mayor enriquecimiento del trabajo práctico se pueden seguir creando nuevos features y utilizar distintos criterios de normalización de variables de ser necesario (logaritmo, raiz cuadrada, etc.)
+
+Entregas:
+
+1. Breve informe (no más de 2 o 3 páginas) en el cual se explique qué detectaron en el set de datos, qué interpretación le dieron, alternativas de solución y propuesta.
+2. Notebook que refleje el trabajo realizado en Python.

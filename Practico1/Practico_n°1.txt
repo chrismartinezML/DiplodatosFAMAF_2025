@@ -1,0 +1,51 @@
+"Alertas Tempranas de Churn: Estrategias Analíticas en el Sector Bancario"
+
+Práctico n°1
+Análisis y visualización
+En la siguiente notebook, realizaremos la carga del dataset inicial que utilizarán para el práctico de Análisis y Visualización. Posteriormente, se detallarán las consignas a seguir para la aprobación del trabajo práctico.
+
+El objetivo de este proyecto es aprender la metodología utilizada para prevenir el abandono de clientes en la industria financiera. El dataset incluye información pertinente a clientes, datos demográficos, cantidad de productos activos, inactividad, nivel de utilización de tarjetas de crédito y otros datos relevantes.
+
+
+Objetivos:
+Análisis estadístico de variables.
+Seleccionar un conjunto de variables que consideren particularmente de interés para analizar, y a continuación:
+
+1 - Usar distintos tipos de gráficos que permitan clarificar la distribucion de las variables. Comentar tipos de distribucion encontrados. ¿Es simetríca o asimétrica? ¿A qué se podría deber dicho comportamiento? Es importante que comenten sus observaciones
+
+2 - Calcular estadísticos descriptivos (media, mediana, moda, desviación estándar)
+
+3 - Grafique un gráfico de Boxplot para cada variable y comente los resultados
+
+3 - ¿Existen valores atípicos? ¿Cuales? Expóngalos gráficamente
+
+Distribución de frecuencias
+
+1 - Distribución etaria de los clientes por cortes de edad (elegir el mejor modo de mostrarlo)
+
+2 - Distribución de Ingresos y relación con el nivel educacional
+
+3 - Distribución del resto de las variables relevantes del dataset 
+
+4 - Cantidad de productos por cliente, ingreso promedio, limites de crédito, antigüedad en el banco, monto total de transacciones promedio últimos 12 meses.
+
+5 - Hacer un análisis que relacione todos los datos construidos. El objetivo es presentar Insights de interés para el negocio. Ej: cantidad de productos activos por cortes con inactividad, promedio de saldo disponible en TC con limite de TC, etc.
+
+
+
+Análisis de probabilidades condicionales e independencia entre dos variables
+
+1 - ¿Existe algún tipo de relación entre la inactividad del cliente y el nivel de endeudamiento?
+
+2 - ¿Existe algún tipo de relación entre la inactividad del cliente, el ingreso, el tipo de producto y limite de crédito ?
+
+3 - Resumir en un cuadro las características de un cliente que presenta una alta tasa de inactividad y casuísticas más comunes. Pueden expresarlo con una pequeña infografía comparándolos con los clientes de mayor actividad.
+
+Utilizar gráficos para complementar el análisis
+
+Pueden agregar más análisis que consideren relevantes que sumarán al contenido del práctico. Estos puntos son el mínimo requerido.
+
+Entregas:
+Breve informe en el cual desarrollen los puntos anteriores, el cual debe incluir :gráficos, resultados obtenidos y las conclusiones obtenidas (no agregar código al informe)
+
+Notebook que refleje el trabajo realizado en Python.

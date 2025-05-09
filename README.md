@@ -1,9 +1,8 @@
+# Alertas Tempranas de Churn: Estrategias Analíticas en el Sector Bancario
+
 ¡Bienvenid@s!
 
 En este espacio encontrarán las instrucciones de los prácticos que abordaremos durante la Diplomatura en Ciencias de Datos FAMAF y el DATASET necesario.
-
-# DiplodatosFAMAF_2025
-Mentoría "Retención de Clientes en Finanzas: Estrategias de Data Science para Prevenir el Churn"
 
 De acuerdo a numerosos estudios, es mucho más costoso registrar un nuevo cliente que mantener uno existente.
 Resulta ventajoso comprender qué lleva a un cliente a tomar una decisión de abandono, para prevenir la misma proactivamente.

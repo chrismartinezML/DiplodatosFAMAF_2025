@@ -1,3 +1,5 @@
+![Mentoría](https://github.com/chrismartinezML/DiplodatosFAMAF_2025/raw/main/Images/Mentoria.png)
+
 # Aprendiendo a detectar clientes en riesgo: Estrategias analíticas para el Churn Bancario
 
 ¡Bienvenid@s!
@@ -35,6 +37,3 @@ Cualquier consulta, la pueden canalizar a mi correo quilimartinez@gmail.com
 Éxitos.
 
 Christian Martinez
-
-![Mentoría](https://github.com/chrismartinezML/DiplodatosFAMAF_2025/raw/main/Images/Mentoria.png)
-

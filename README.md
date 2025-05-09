@@ -22,7 +22,7 @@ HITOS:
 
 3 - Entrega del video de presentación intermedia del proyecto (video - presentación 1)
 
-4 - Práctico de aprendizaje supervisado / no supervisado (práctico 3)
+4 - Práctico de aprendizaje supervisado / Deep Learning (práctico 3)
 
 5 - Entrega del video de presentación final de la mentoría (video - presentación 2)
 
